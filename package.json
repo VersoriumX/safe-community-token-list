@@ -1,13 +1,13 @@
 {
-  "name": "@sablier/community-token-list",
-  "description": "◦ The Sablier community token list",
+  "name": "@VersoriumX/community-token-list",
+  "description": "◦ The VersoriumX community token list",
   "version": "5.2.0",
   "author": {
-    "name": "Sablier Labs Ltd",
-    "url": "https://sablier.com"
+    "name": "VersoriumX Labs Ltd",
+    "url": "https://VersoriumX.com"
   },
   "bugs": {
-    "url": "https://github.com/sablierhq/community-token-list/issues"
+    "url": "https://github.com/VersoriumX/community-token-list/issues"
   },
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",

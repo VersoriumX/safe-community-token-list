@@ -27,8 +27,8 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://files.sablier.com/icon-180x180.png",
-    keywords: ["sablier", "default"],
+    logoURI: "https://avatars.githubusercontent.com/u/99358631?v=4",
+    keywords: ["VersoriumX", "default"],
     tokens: [
       ...ethereum_mainnet,
       ...avalanche_mainnet,
